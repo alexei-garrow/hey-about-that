@@ -30,8 +30,8 @@ HTML, CSS & JavaScript
 TODO
 
 ## Back End
-Draw.io ERD
-postgreSQL? database
+- Draw.io ERD
+- postgreSQL? database
 
 
 
